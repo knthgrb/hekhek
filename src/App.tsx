@@ -8,6 +8,7 @@ const TulipFace = () => (
   </div>
 );
 
+// tulip head
 const TulipHead = ({ isRightBaby }) => (
   <div
     className={`tulipHead absolute top-[-159px] left-[-102px] bg-[#f3a69e] w-[200px] h-[165px] rounded-b-[50%] z-0 ${
